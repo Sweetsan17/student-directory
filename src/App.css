@@ -3,6 +3,10 @@ body {
   background-color: #f0f2f7;
 }
 
+header {
+  background-color: #6541e8;
+}
+
 #root {
   width: 1126px;
   max-width: 100%;
